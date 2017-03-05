@@ -1,0 +1,6 @@
+c:\users\user\documents\visual studio 2015\Projects\MainSnake\MainSnake\bin\Debug\MainSnake.exe.config
+c:\users\user\documents\visual studio 2015\Projects\MainSnake\MainSnake\bin\Debug\MainSnake.exe
+c:\users\user\documents\visual studio 2015\Projects\MainSnake\MainSnake\bin\Debug\MainSnake.pdb
+c:\users\user\documents\visual studio 2015\Projects\MainSnake\MainSnake\obj\Debug\MainSnake.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\MainSnake\MainSnake\obj\Debug\MainSnake.exe
+c:\users\user\documents\visual studio 2015\Projects\MainSnake\MainSnake\obj\Debug\MainSnake.pdb
